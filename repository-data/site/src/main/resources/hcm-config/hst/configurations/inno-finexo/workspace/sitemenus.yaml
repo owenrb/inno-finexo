@@ -1,0 +1,8 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/innofinexo/hst:workspace/hst:sitemenus:
+      jcr:primaryType: hst:sitemenus
+      /main:
+        .meta:residual-child-node-category: content
+        jcr:primaryType: hst:sitemenu
+        hst:lastmodified: 2024-07-29T21:00:23.446+08:00

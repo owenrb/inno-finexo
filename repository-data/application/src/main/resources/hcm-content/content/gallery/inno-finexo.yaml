@@ -1,0 +1,7 @@
+/content/gallery/innofinexo:
+  jcr:primaryType: hippogallery:stdImageGallery
+  jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
+  jcr:uuid: add04eb9-f640-41d6-9226-974af92d90a1
+  hippo:name: Innovation Lab
+  hippostd:foldertype: [new-image-folder]
+  hippostd:gallerytype: ['hippogallery:imageset']

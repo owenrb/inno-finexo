@@ -1,0 +1,5 @@
+definitions:
+  namespace:
+    innofinexo:
+      uri: http://www.innofinexo.com/innofinexo/nt/1.0
+      cnd: namespaces/inno-finexo.cnd

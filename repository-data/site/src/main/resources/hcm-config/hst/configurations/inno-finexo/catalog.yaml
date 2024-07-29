@@ -1,0 +1,6 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/innofinexo/hst:catalog:
+      jcr:primaryType: hst:catalog
+      /innofinexo-catalog:
+        jcr:primaryType: hst:containeritempackage

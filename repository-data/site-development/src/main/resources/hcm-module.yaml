@@ -1,0 +1,6 @@
+site: inno-finexo
+group: inno-finexo
+project: inno-finexo
+module:
+  name: inno-finexo-repository-data-site-development
+  after: inno-finexo-repository-data-site

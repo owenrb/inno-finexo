@@ -1,0 +1,32 @@
+definitions:
+  config:
+    /hippo:configuration/hippo:translations/hippo:types/innofinexo:bannerdocument:
+      jcr:primaryType: hipposys:resourcebundles
+      /en:
+        jcr:primaryType: hipposys:resourcebundle
+        innofinexo:content: Content
+        innofinexo:image: Image
+        innofinexo:link: Link
+        innofinexo:title: Title
+        jcr:name: Banner
+      /nl:
+        jcr:primaryType: hipposys:resourcebundle
+        innofinexo:content: Inhoud
+        innofinexo:image: Afbeelding
+        innofinexo:link: Link
+        innofinexo:title: Titel
+        jcr:name: Banner
+      /fr:
+        jcr:primaryType: hipposys:resourcebundle
+        innofinexo:content: Contenu
+        innofinexo:image: Image
+        innofinexo:link: Lien
+        innofinexo:title: Titre
+        jcr:name: Bannière
+      /de:
+        jcr:primaryType: hipposys:resourcebundle
+        innofinexo:content: Inhalt
+        innofinexo:image: Abbildung
+        innofinexo:link: Link
+        innofinexo:title: Titel
+        jcr:name: Banner

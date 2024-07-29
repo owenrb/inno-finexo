@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <applicationSubModule>application</applicationSubModule>
+    <cmsDependenciesModule>cms-dependencies</cmsDependenciesModule>
+    <cmsModule>cms</cmsModule>
+    <confirmParams>false</confirmParams>
+    <developmentSubModule>development</developmentSubModule>
+    <enterprise>false</enterprise>
+    <extraTemplates>true</extraTemplates>
+    <hstRoot>/hst:innofinexo</hstRoot>
+    <projectNamespace>innofinexo</projectNamespace>
+    <repositoryDataModule>repository-data</repositoryDataModule>
+    <selectedBeansPackage>io.owenrbee.hippo.inno.beans</selectedBeansPackage>
+    <selectedComponentsPackage>io.owenrbee.hippo.inno.components</selectedComponentsPackage>
+    <selectedProjectPackage>io.owenrbee.hippo.inno</selectedProjectPackage>
+    <selectedRestPackage>io.owenrbee.hippo.inno.rest</selectedRestPackage>
+    <setupDone>true</setupDone>
+    <siteContextPath>/site</siteContextPath>
+    <siteModule>site</siteModule>
+    <useSamples>true</useSamples>
+    <webfileBundleName>site</webfileBundleName>
+    <webfilesSubModule>webfiles</webfilesSubModule>
+</project>

@@ -1,0 +1,6 @@
+group: 
+  name: inno-finexo
+  after: hippo-cms
+project: inno-finexo
+module:
+  name: inno-finexo-repository-data-site

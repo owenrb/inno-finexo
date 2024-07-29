@@ -1,0 +1,22 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/innofinexo/hst:templates:
+      jcr:primaryType: hst:templates
+      /base-layout:
+        jcr:primaryType: hst:template
+        hst:renderpath: webfile:/freemarker/innofinexo/base-layout.ftl
+      /base-top-menu:
+        jcr:primaryType: hst:template
+        hst:renderpath: webfile:/freemarker/innofinexo/base-top-menu.ftl
+      /base-footer:
+        jcr:primaryType: hst:template
+        hst:renderpath: webfile:/freemarker/innofinexo/base-footer.ftl
+      /homepage-main:
+        jcr:primaryType: hst:template
+        hst:renderpath: webfile:/freemarker/innofinexo/homepage-main.ftl
+      /pagenotfound-main:
+        jcr:primaryType: hst:template
+        hst:renderpath: webfile:/freemarker/innofinexo/pagenotfound-main.ftl
+      /about-main:
+        jcr:primaryType: hst:template
+        hst:renderpath: webfile:/freemarker/innofinexo/about-main.ftl

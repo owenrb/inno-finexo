@@ -1,0 +1,6 @@
+definitions:
+  config:
+    /hippo:namespaces/innofinexo:
+      jcr:primaryType: hipposysedit:namespace
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: ccbadd11-b9b5-480c-8661-871db9fd6468

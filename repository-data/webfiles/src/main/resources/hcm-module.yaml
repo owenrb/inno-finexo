@@ -1,0 +1,5 @@
+group: 
+  name: inno-finexo
+project: inno-finexo
+module:
+  name: inno-finexo-repository-data-webfiles

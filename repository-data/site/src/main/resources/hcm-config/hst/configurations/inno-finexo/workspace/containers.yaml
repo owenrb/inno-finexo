@@ -1,0 +1,34 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/innofinexo/hst:workspace/hst:containers:
+      jcr:primaryType: hst:containercomponentfolder
+      /base:
+        jcr:primaryType: hst:containercomponentfolder
+        /top:
+          .meta:residual-child-node-category: content
+          jcr:primaryType: hst:containercomponent
+          hippo:identifier: 0597c649-5a5c-4baa-9c20-72d051996c36
+          hst:label: Top
+          hst:xtype: hst.vbox
+        /footer:
+          .meta:residual-child-node-category: content
+          jcr:primaryType: hst:containercomponent
+          hippo:identifier: 54eb59e4-93d8-4c92-8c13-2401c8be6106
+          hst:label: Footer
+          hst:xtype: hst.vbox
+      /homepage:
+        jcr:primaryType: hst:containercomponentfolder
+        /main:
+          .meta:residual-child-node-category: content
+          jcr:primaryType: hst:containercomponent
+          hippo:identifier: c0e32659-fcdf-461e-9fcd-60d020ff4653
+          hst:label: Home Page Main
+          hst:xtype: hst.vbox
+      /pagenotfound:
+        jcr:primaryType: hst:containercomponentfolder
+        /main:
+          .meta:residual-child-node-category: content
+          jcr:primaryType: hst:containercomponent
+          hippo:identifier: 89293117-a4d9-465c-833f-aa4ba4d7021c
+          hst:label: Page-Not-Found Main
+          hst:xtype: hst.vbox
