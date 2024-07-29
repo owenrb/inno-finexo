@@ -2,6 +2,10 @@
 
 Hippo CMS Demo
 
+## Wireframe
+
+Thanks to the [Free CSS Template](https://www.free-css.com/free-css-templates/page296/finexo)!
+
 ## Running Locally
 
 This project uses the Maven Cargo plugin to run Essentials, the CMS and site locally in Tomcat.
