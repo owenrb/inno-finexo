@@ -3,15 +3,15 @@
 <#-- @ftlvariable name="menu" type="org.hippoecm.hst.core.sitemenu.HstSiteMenu" -->
 <#-- @ftlvariable name="editMode" type="java.lang.Boolean"-->
 <#if menu??>
-<div class="has-edit-button collapse navbar-collapse" id="navbarSupportedContent">
+<div class="has-edit-button">
   <#if menu.siteMenuItems??>
-    <ul class="nav nav-pills navbar-nav">
+    <ul class="nav nav-pills">
       <#list menu.siteMenuItems as item>
         <#if !item.hstLink?? && !item.externalLink??>
           <#if item.selected || item.expanded>
-            <li class="nav-item active"><div style="padding: 10px 15px;">${item.name?html}</div></li>
+            <li class="active"><div style="padding: 10px 15px;">${item.name?html}</div></li>
           <#else>
-            <li class="nav-item"><div style="padding: 10px 15px;">${item.name?html}</div></li>
+            <li><div style="padding: 10px 15px;">${item.name?html}</div></li>
           </#if>
         <#else>
           <#if item.hstLink??>
@@ -20,9 +20,9 @@
             <#assign href>${item.externalLink?replace("\"", "")}</#assign>
           </#if>
           <#if  item.selected || item.expanded>
-            <li class="nav-item active"><a href="${href}">${item.name?html}</a></li>
+            <li class="active"><a href="${href}">${item.name?html}</a></li>
           <#else>
-            <li class="nav-item"><a href="${href}">${item.name?html}</a></li>
+            <li><a href="${href}">${item.name?html}</a></li>
           </#if>
         </#if>
       </#list>

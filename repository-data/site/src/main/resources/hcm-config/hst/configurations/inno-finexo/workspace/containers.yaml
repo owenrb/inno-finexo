@@ -4,18 +4,6 @@ definitions:
       jcr:primaryType: hst:containercomponentfolder
       /base:
         jcr:primaryType: hst:containercomponentfolder
-        /top:
-          .meta:residual-child-node-category: content
-          jcr:primaryType: hst:containercomponent
-          hippo:identifier: 0597c649-5a5c-4baa-9c20-72d051996c36
-          hst:label: Top
-          hst:xtype: hst.vbox
-        /footer:
-          .meta:residual-child-node-category: content
-          jcr:primaryType: hst:containercomponent
-          hippo:identifier: 54eb59e4-93d8-4c92-8c13-2401c8be6106
-          hst:label: Footer
-          hst:xtype: hst.vbox
       /homepage:
         jcr:primaryType: hst:containercomponentfolder
         /main:
