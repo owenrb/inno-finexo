@@ -1,0 +1,33 @@
+/content/gallery/innofinexo/sliders:
+  jcr:primaryType: hippogallery:stdImageGallery
+  jcr:mixinTypes: ['mix:versionable']
+  jcr:uuid: c1e668ed-fb59-4c61-a1db-fdd7980f42f0
+  hippostd:foldertype: [new-image-folder]
+  hippostd:gallerytype: ['hippogallery:imageset']
+  /slider-img.png:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: dc0050d5-8828-40f0-bc17-d9749607ef30
+    /slider-img.png:
+      jcr:primaryType: hippogallery:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: slider-img.png
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: slider-img.png
+        hippogallery:height: 51
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/innofinexo/sliders/slider-img.png/slider-img_thumbnail.png
+        jcr:lastModified: 2024-07-30T15:45:59.170+08:00
+        jcr:mimeType: image/png
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 973
+        hippogallery:width: 1135
+        jcr:data:
+          type: binary
+          resource: /content/gallery/innofinexo/sliders/slider-img.png/slider-img_original.png
+        jcr:lastModified: 2024-07-30T15:45:59.170+08:00
+        jcr:mimeType: image/png
