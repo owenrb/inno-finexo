@@ -4,20 +4,31 @@ definitions:
       jcr:primaryType: hst:containercomponentfolder
       /base:
         jcr:primaryType: hst:containercomponentfolder
+        /top:
+          .meta:residual-child-node-category: content
+          jcr:primaryType: hst:containercomponent
+          hippo:identifier: 7b8edd94-84a1-43ab-b693-6b9bb2373c6b
+          hst:label: Top
+          hst:xtype: hst.vbox
+        /footer:
+          .meta:residual-child-node-category: content
+          jcr:primaryType: hst:containercomponent
+          hippo:identifier: f6137abe-51da-403e-8293-65e6d2946eb6
+          hst:label: Footer
+          hst:xtype: hst.vbox
       /homepage:
         jcr:primaryType: hst:containercomponentfolder
         /main:
           .meta:residual-child-node-category: content
           jcr:primaryType: hst:containercomponent
-          hippo:identifier: c0e32659-fcdf-461e-9fcd-60d020ff4653
+          hippo:identifier: ee57f3e2-21ee-441e-9dd9-639bf6791e24
           hst:label: Home Page Main
           hst:xtype: hst.vbox
-          hst:lastmodified: 2024-07-30T12:09:51.427+08:00
       /pagenotfound:
         jcr:primaryType: hst:containercomponentfolder
         /main:
           .meta:residual-child-node-category: content
           jcr:primaryType: hst:containercomponent
-          hippo:identifier: 89293117-a4d9-465c-833f-aa4ba4d7021c
+          hippo:identifier: cdb88e93-617a-4593-bbb2-26980c9c8460
           hst:label: Page-Not-Found Main
           hst:xtype: hst.vbox

@@ -15,8 +15,3 @@ definitions:
         hst:componentconfigurationid: hst:pages/pagenotfound
         hst:pagetitle: Not Found Page
         hst:refId: pagenotfound
-      /about:
-        jcr:primaryType: hst:sitemapitem
-        hst:componentconfigurationid: hst:pages/about
-        hst:pagetitle: About Us
-        hst:refId: about

@@ -3,11 +3,11 @@ definitions:
     /hippo:namespaces/innofinexo/basedocument:
       jcr:primaryType: hipposysedit:templatetype
       jcr:mixinTypes: ['mix:referenceable']
-      jcr:uuid: 7b1e10a7-6eb4-4952-a700-b8d57e3c3208
+      jcr:uuid: ca8a6552-c4f9-409b-9467-05a8dc97748c
       /hipposysedit:nodetype:
         jcr:primaryType: hippo:handle
         jcr:mixinTypes: ['mix:referenceable']
-        jcr:uuid: de45ce47-c6d5-46e6-ab9d-e23b49b142bb
+        jcr:uuid: 4b97978f-3c3b-42e8-813f-b92480424c17
         /hipposysedit:nodetype:
           jcr:primaryType: hipposysedit:nodetype
           jcr:mixinTypes: ['hipposysedit:remodel']

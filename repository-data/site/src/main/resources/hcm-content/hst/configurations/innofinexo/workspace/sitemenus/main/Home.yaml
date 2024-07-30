@@ -1,5 +1,3 @@
-/hst:hst/hst:configurations/innofinexo/hst:workspace/hst:sitemenus/main/Home:
-  .meta:order-before: About
+/hst:hst/hst:configurations/innofinexo/hst:workspace/hst:sitemenus/main/home:
   jcr:primaryType: hst:sitemenuitem
   hst:referencesitemapitem: root
-  hst:repobased: false

@@ -1,8 +1,0 @@
-definitions:
-  config:
-    /hst:hst/hst:configurations/innofinexo/hst:abstractpages/about:
-      jcr:primaryType: hst:component
-      hst:referencecomponent: hst:abstractpages/base
-      /main:
-        jcr:primaryType: hst:component
-        hst:template: about-main

@@ -1,12 +1,12 @@
 /content/documents/administration/labels/homepage:
   jcr:primaryType: hippo:handle
   jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
-  jcr:uuid: 4da8ed86-9fb6-4ed5-83d9-d77e5e9e2dcb
+  jcr:uuid: 221c39fa-ccd5-44dc-92e6-55f9cfd8e566
   hippo:name: Homepage
   /homepage:
     jcr:primaryType: resourcebundle:resourcebundle
     jcr:mixinTypes: ['mix:referenceable']
-    jcr:uuid: 64d036cc-a90c-40c3-a835-c39bcba8a609
+    jcr:uuid: f293c812-921a-4049-a533-552f935aedff
     hippo:availability: [live, preview]
     hippostd:state: published
     hippostdpubwf:createdBy: admin

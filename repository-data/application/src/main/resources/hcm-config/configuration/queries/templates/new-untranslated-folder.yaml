@@ -14,5 +14,5 @@ definitions:
         /hippostd:folder:
           jcr:primaryType: hippostd:folder
           jcr:mixinTypes: ['mix:versionable']
-          jcr:uuid: 433651df-c001-4188-8ed2-ae796481e211
+          jcr:uuid: 56cf1331-9216-451e-bf39-06bedf3ccccd
           hippostd:foldertype: [new-resource-bundle, new-untranslated-folder]

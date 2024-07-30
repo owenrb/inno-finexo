@@ -17,6 +17,3 @@ definitions:
       /pagenotfound-main:
         jcr:primaryType: hst:template
         hst:renderpath: webfile:/freemarker/innofinexo/pagenotfound-main.ftl
-      /about-main:
-        jcr:primaryType: hst:template
-        hst:renderpath: webfile:/freemarker/innofinexo/about-main.ftl

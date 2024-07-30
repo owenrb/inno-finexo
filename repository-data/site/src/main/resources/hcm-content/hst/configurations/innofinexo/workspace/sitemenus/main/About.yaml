@@ -1,4 +1,0 @@
-/hst:hst/hst:configurations/innofinexo/hst:workspace/hst:sitemenus/main/About:
-  jcr:primaryType: hst:sitemenuitem
-  hst:referencesitemapitem: about
-  hst:repobased: false

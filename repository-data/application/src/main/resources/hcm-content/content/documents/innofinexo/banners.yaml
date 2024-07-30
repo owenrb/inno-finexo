@@ -1,9 +1,9 @@
 /content/documents/innofinexo/banners:
   jcr:primaryType: hippostd:folder
   jcr:mixinTypes: ['hippotranslation:translated', 'mix:referenceable']
-  jcr:uuid: fde5ca0f-c19e-4b25-bee5-6aee5eb8a50c
+  jcr:uuid: c6bb0b1a-be28-4905-ba91-74ec210fad74
   hippostd:foldertype: [new-banner-document, new-banner-folder]
-  hippotranslation:id: 8da0d37a-a701-4f99-9dec-b6dc49dc492c
+  hippotranslation:id: 94384fa0-8ff9-423b-933c-ba00dc4d8143
   hippotranslation:locale: en
   /banner1:
     jcr:primaryType: hippo:handle
@@ -12,7 +12,7 @@
     /banner1:
       jcr:primaryType: innofinexo:bannerdocument
       jcr:mixinTypes: ['mix:referenceable']
-      jcr:uuid: bcb8f7ce-235c-4fc0-bea3-3154b736c58a
+      jcr:uuid: 11ddfe99-ff40-4b64-9fe3-1b1f3dae5c41
       hippo:availability: [live, preview]
       hippostd:holder: admin
       hippostd:state: published
@@ -21,7 +21,7 @@
       hippostdpubwf:lastModificationDate: 2014-03-20T17:04:00+01:00
       hippostdpubwf:lastModifiedBy: admin
       hippostdpubwf:publicationDate: 2014-03-20T17:04:00+01:00
-      hippotranslation:id: b7c3e742-12d1-40a8-904d-36c986e0f4ae
+      hippotranslation:id: 5401a3d1-d278-46b0-b412-7499f04d4b3d
       hippotranslation:locale: en
       innofinexo:title: Sample banner
       /innofinexo:content:
@@ -47,7 +47,7 @@
     /banner2:
       jcr:primaryType: innofinexo:bannerdocument
       jcr:mixinTypes: ['mix:referenceable']
-      jcr:uuid: 2bf3ca48-257f-493d-91c9-84fe01e66616
+      jcr:uuid: d9c13fe5-868d-4756-89b7-289a92308362
       hippo:availability: [live, preview]
       hippostd:holder: admin
       hippostd:state: published
@@ -56,7 +56,7 @@
       hippostdpubwf:lastModificationDate: 2014-03-20T17:04:00+01:00
       hippostdpubwf:lastModifiedBy: admin
       hippostdpubwf:publicationDate: 2014-03-20T17:04:00+01:00
-      hippotranslation:id: 0021a0d1-095e-4713-b92e-74d767083d7a
+      hippotranslation:id: eb880fae-2712-4a9c-8e5c-f88963d3d2d9
       hippotranslation:locale: en
       innofinexo:title: Sample banner 2
       /innofinexo:content:

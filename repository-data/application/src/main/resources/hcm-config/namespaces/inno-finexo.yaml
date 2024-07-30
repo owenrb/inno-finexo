@@ -3,4 +3,4 @@ definitions:
     /hippo:namespaces/innofinexo:
       jcr:primaryType: hipposysedit:namespace
       jcr:mixinTypes: ['mix:referenceable']
-      jcr:uuid: ccbadd11-b9b5-480c-8661-871db9fd6468
+      jcr:uuid: c378cd8d-df26-45d9-aba1-b3b713e286d8
