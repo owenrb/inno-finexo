@@ -262,9 +262,8 @@ a:focus {
 }
 
 .slider_section .row {
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+              display: flex;
+          align-items: end;
 }
 
 .slider_section #customCarousel1 {
